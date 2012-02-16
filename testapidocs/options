@@ -1,5 +1,5 @@
 -classpath
-'/Users/aron/workspace/venom/venom/target/classes:/Users/aron/workspace/venom/venom/target/test-classes:/Users/aron/.m2/repository/junit/junit/4.8/junit-4.8.jar'
+'/Users/aron/workspace/venom/venom/target/classes:/Users/aron/workspace/venom/venom/target/test-classes:/Users/aron/.m2/repository/org/yaml/snakeyaml/1.6/snakeyaml-1.6.jar:/Users/aron/.m2/repository/com/beust/jcommander/1.12/jcommander-1.12.jar:/Users/aron/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar:/Users/aron/.m2/repository/org/testng/testng/6.4/testng-6.4.jar:/Users/aron/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar'
 -encoding
 'UTF-8'
 -protected
