@@ -1,0 +1,24 @@
+-classpath
+'/Users/aron/workspace/venom/venom/target/classes:/Users/aron/workspace/venom/venom/target/test-classes:/Users/aron/.m2/repository/junit/junit/4.8/junit-4.8.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/aron/workspace/venom/venom/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2012. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/aron/workspace/venom/venom/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Fast Java Actor Framework 1.0-SNAPSHOT Test API'
+-link
+'http://java.sun.com/javase/6/docs/api'
+-use
+-version
+-windowtitle
+'Fast Java Actor Framework 1.0-SNAPSHOT Test API'
