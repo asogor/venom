@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51226" started-at="2012-02-16T21:06:36Z" finished-at="2012-02-16T21:07:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51226" started-at="2012-02-16T21:06:36Z" finished-at="2012-02-16T21:07:27Z">
+      <class name="com.github.venom.simple.TestSimple">
+        <test-method status="PASS" signature="runTestGuice()" name="runTestGuice" duration-ms="51207" started-at="2012-02-16T21:06:36Z" finished-at="2012-02-16T21:07:27Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
