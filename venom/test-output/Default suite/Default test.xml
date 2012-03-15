@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite hostname="asogor-mbp15.local" name="com.github.venom.simple.TestSimple" tests="1" failures="0" timestamp="17 Feb 2012 05:07:28 GMT" time="51.226" errors="0">
-  <testcase name="runTestGuice" time="51.207" classname="com.github.venom.simple.TestSimple"/>
-</testsuite>
