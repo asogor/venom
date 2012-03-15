@@ -8,3 +8,9 @@ venom/.project
 venom/target
 
 venom/.settings/org.eclipse.jdt.core.prefs
+
+venom/test-output
+
+venom/test-output/Default suite/Default test.html
+
+venom/test-output/Default suite/Default test.html

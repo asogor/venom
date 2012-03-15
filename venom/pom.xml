@@ -174,5 +174,11 @@
 			<version>6.4</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.eclipse.jetty</groupId>
+			<artifactId>jetty-client</artifactId>
+			<version>8.1.1.v20120215</version>
+			<scope>test</scope>
+		</dependency>
 	</dependencies>
 </project>
